@@ -1,0 +1,16 @@
+<svg width="121" height="121" viewBox="0 0 121 121" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 38">
+<g id="Ellipse 24" filter="url(#filter0_f_225_1055)">
+<circle cx="60.5" cy="60.5" r="35" stroke="#F1EAD9" stroke-width="15"/>
+</g>
+<circle id="Ellipse 23" cx="60.5" cy="60.5" r="27.5" fill="#375F33"/>
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M58.7958 54.4337C59.0736 54.156 59.4503 54 59.8431 54C60.2359 54 60.6127 54.156 60.8905 54.4337L69.2705 62.8137C69.5403 63.0931 69.6896 63.4673 69.6862 63.8557C69.6829 64.2441 69.5271 64.6157 69.2524 64.8903C68.9778 65.165 68.6062 65.3208 68.2178 65.3241C67.8294 65.3275 67.4552 65.1782 67.1758 64.9084L59.8431 57.5757L52.5105 64.9084C52.2311 65.1782 51.8569 65.3275 51.4685 65.3241C51.0801 65.3208 50.7085 65.165 50.4339 64.8903C50.1592 64.6157 50.0034 64.2441 50.0001 63.8557C49.9967 63.4673 50.146 63.0931 50.4158 62.8137L58.7958 54.4337Z" fill="#F1EAD9"/>
+</g>
+<defs>
+<filter id="filter0_f_225_1055" x="0.299999" y="0.299999" width="120.4" height="120.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.85" result="effect1_foregroundBlur_225_1055"/>
+</filter>
+</defs>
+</svg>
